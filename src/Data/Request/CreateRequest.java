@@ -1,2 +1,4 @@
-package Data.Dtos;public class Request {
+package Data.Request;
+
+public class CreateRequest {
 }

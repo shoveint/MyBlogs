@@ -1,2 +1,4 @@
-package Data.Dtos;public class Response {
+package Data.Responses;
+
+public class CreateResponse {
 }

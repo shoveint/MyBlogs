@@ -1,2 +1,4 @@
-package Repositories;public class CommentRepoImplementation {
+package Repositories;
+
+public class CommentRepoImplementation implements CommentRepositories {
 }

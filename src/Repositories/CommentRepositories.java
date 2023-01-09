@@ -1,2 +1,4 @@
-package Repositories;public interface CommentRepositotries {
+package Repositories;
+
+public interface CommentRepositories {
 }

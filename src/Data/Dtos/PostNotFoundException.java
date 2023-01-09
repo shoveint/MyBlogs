@@ -1,2 +1,4 @@
-package Data.Dtos;public class PostNotFoundException {
+package Data.Dtos;
+
+public class PostNotFoundException {
 }
