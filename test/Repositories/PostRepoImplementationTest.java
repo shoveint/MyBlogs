@@ -1,6 +1,8 @@
 package Repositories;
 
-import Model.Post;
+import com.africa.semicolon.myblog.Model.Post;
+import com.africa.semicolon.myblog.Repositories.PostRepo;
+import com.africa.semicolon.myblog.Repositories.PostRepoImplementation;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

@@ -5,77 +5,46 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0169a84e-cd9b-45d7-9da8-2ba4c1884d92" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_4_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_4_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_14_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_14_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_14_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_14_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_14_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_14_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_micrometer_micrometer_commons_1_10_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_micrometer_micrometer_observation_1_10_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_2_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_19_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_19_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_10_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_10_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_10_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_bson_4_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_bson_record_codec_4_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_4_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_sync_4_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_24.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_2_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_2_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_3_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_3_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_3_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_mongodb_3_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_3_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_3_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_3_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_3_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_3_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_mongodb_4_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_6_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_6_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_6_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_6_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_6_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_6_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_6_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_6_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_6_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_33.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBlogs.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Data/Comment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Data/Dtos/PostNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Data/Request/CreateRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Data/Responses/CreateResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Model/Post.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Repositories/CommentRepoImplementation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Repositories/CommentRepositories.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Repositories/PostRepo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Repositories/PostRepoImplementation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Services/CommentServices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Services/CommentServicesImplementation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Services/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Services/PostServices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Services/PostServicesImplementation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controllers/CreatePostRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controllers/PostControllers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/Repositories/PostRepoImplementationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/Services/PostServicesImplementationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/africa/semicolon/myblog/Data/Request/CreateCommentRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/africa/semicolon/myblog/Data/Request/CreatePostRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/africa/semicolon/myblog/Model/Comment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/africa/semicolon/myblog/controllers/CommentControllers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Data/Comment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/africa/semicolon/myblog/Data/Comment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Data/Dtos/PostNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/africa/semicolon/myblog/Data/Dtos/PostNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Data/Request/CreateRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Data/Responses/CreateResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/africa/semicolon/myblog/Data/Responses/CreateResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Model/Post.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/africa/semicolon/myblog/Model/Post.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Repositories/CommentRepoImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/africa/semicolon/myblog/Repositories/CommentRepoImplementation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Repositories/CommentRepositories.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/africa/semicolon/myblog/Repositories/CommentRepositories.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Repositories/PostRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/africa/semicolon/myblog/Repositories/PostRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Repositories/PostRepoImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/africa/semicolon/myblog/Repositories/PostRepoImplementation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Services/CommentServices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/africa/semicolon/myblog/Services/CommentServices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Services/CommentServicesImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/africa/semicolon/myblog/Services/CommentServicesImplementation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Services/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/africa/semicolon/myblog/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Services/PostServices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/africa/semicolon/myblog/Services/PostServices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Services/PostServicesImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/africa/semicolon/myblog/Services/PostServicesImplementation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controllers/CreatePostRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/africa/semicolon/myblog/controllers/CreatePostRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controllers/PostControllers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/africa/semicolon/myblog/controllers/PostControllers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Data/Comment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Data/Dtos/PostNotFoundException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Data/Request/CreateRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Data/Responses/CreateResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Model/Post.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Repositories/CommentRepoImplementation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Repositories/CommentRepositories.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Repositories/PostRepo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Repositories/PostRepoImplementation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Services/CommentServices.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Services/CommentServicesImplementation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Services/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Services/PostServices.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Services/PostServicesImplementation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controllers/CreatePostRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controllers/PostControllers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/Repositories/PostRepoImplementationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/Repositories/PostRepoImplementationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/Services/PostServicesImplementationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/Services/PostServicesImplementationTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,6 +74,9 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2IoGtFD40Jbn56qPBY5PDfRKpRl" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -117,6 +89,10 @@
     &quot;Repository.Attach.Annotations&quot;: &quot;true&quot;,
     &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
     &quot;Repository.Attach.Sources&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
@@ -124,10 +100,12 @@
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/IdeaProjects/MyBlogs&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;d78aec200b28fa90ba558ab405cc4352&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -141,7 +119,11 @@
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.africa.semicolon.myblog.Services" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
       <recent name="Services" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
@@ -154,11 +136,11 @@
   </component>
   <component name="RunManager" selected="Spring Boot.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Services.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.africa.semicolon.myblog.Main" />
       <module name="MyBlogs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Services.*" />
+          <option name="PATTERN" value=".*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -202,7 +184,7 @@
       <module name="MyBlogs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Services.*" />
+          <option name="PATTERN" value=".*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -216,10 +198,10 @@
     </configuration>
     <configuration name="Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="MyBlogs" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="Services.Main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.africa.semicolon.myblog.Main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Services.*" />
+          <option name="PATTERN" value=".*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -251,7 +233,9 @@
       <workItem from="1671006693528" duration="380000" />
       <workItem from="1671007238835" duration="534000" />
       <workItem from="1671685123759" duration="1726000" />
-      <workItem from="1673262294873" duration="5264000" />
+      <workItem from="1673262294873" duration="18625000" />
+      <workItem from="1674476243387" duration="1627000" />
+      <workItem from="1675080031681" duration="347000" />
     </task>
     <servers />
   </component>
@@ -274,7 +258,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/test/Repositories/PostRepoImplementationTest.java</url>
-          <line>26</line>
+          <line>28</line>
           <properties class="Repositories.PostRepoImplementationTest" method="saveNewPost_findById_shouldReturnSavePostTest">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
